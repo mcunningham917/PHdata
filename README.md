@@ -1,6 +1,6 @@
 # PHdata
 
-PHdata provides all data used to create Figure 8a/b in Cunningham et al. (2019). The data are ten 1-arcsecond (projected at 30 m resolution) Shuttle Radar Topography Mission (SRTM) [DEMS](https://mcunningham917.github.io/PHdoc/Data/) of tropical mountain ranges. Each mountain range was segmented into large catchments, termed "supercatchments", which are fed directly in the [Progressive Hypsometry routine](https://mcunningham917.github.io/PHdoc/Method/). The catchments extend from a low elevation (usually between 150-250 m ASL) and span to the main divide of each ROI mountain range. 
+PHdata provides all data used to create Figure 8a/b in Cunningham et al. (2019). The data are ten 1-arcsecond (projected at 30 m resolution) Shuttle Radar Topography Mission (SRTM) [DEMs](https://mcunningham917.github.io/PHdoc/Data/) of tropical mountain ranges. Each mountain range was segmented into large catchments, termed "supercatchments", which are fed directly in the [Progressive Hypsometry routine](https://mcunningham917.github.io/PHdoc/Method/). The catchments extend from a low elevation (usually between 150-250 m ASL) and span to the main divide of each ROI mountain range. 
 
 ## Organization
 
