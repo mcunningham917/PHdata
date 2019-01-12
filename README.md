@@ -1,7 +1,6 @@
 # PHdata
 
-`PHdata` provides all  
-[digital elevation model data GeoTIFF files](https://mcunningham917.github.io/PHdoc/Data/)
+`PHdata` provides all [digital elevation model data GeoTIFF files](https://mcunningham917.github.io/PHdoc/Data/)
 used to create 
 [Cunningham et al. (2019)](https://mcunningham917.github.io/PHdoc/Publications).
 The data are ten 1-arcsecond (projected at 30m resolution) 
