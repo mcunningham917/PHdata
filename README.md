@@ -1,10 +1,11 @@
 # PHdata
 
-`PHdata` provides all digital elevation model data GeoTIFF files used to create 
+`PHdata` provides all  
+[digital elevation model data GeoTIFF files](https://mcunningham917.github.io/PHdoc/Data/)
+used to create 
 [Cunningham et al. (2019)](https://mcunningham917.github.io/PHdoc/Publications).
 The data are ten 1-arcsecond (projected at 30m resolution) 
-Shuttle Radar Topography Mission (SRTM) 
-[DEMs](https://mcunningham917.github.io/PHdoc/Data/) of tropical mountain ranges. 
+Shuttle Radar Topography Mission (SRTM) DEMs of tropical mountain ranges. 
 Each mountain range was segmented into large catchments, termed "supercatchments", 
 which are fed directly in the 
 [Progressive Hypsometry routine](https://mcunningham917.github.io/PHdoc/Method/). 
