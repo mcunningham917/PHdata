@@ -20,6 +20,6 @@ Each ROI has a folder that contains all supercatchments used for the analysis.
 (e.g.,
 [`CostaRica.m`](https://github.com/mcunningham917/PHanalysis/blob/master/CostaRica.m) 
 that accesses the appropriate list of supercatchments and writes 
-to its respective subfolder of `PHanalysis/` (the result for the same example analysis 
+to its respective subfolder of `PHanalysis/` (the results for the same example 
 are available on 
 [this repo](https://github.com/mcunningham917/PHanalysis/tree/master/CostaRica)). 
