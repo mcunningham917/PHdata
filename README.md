@@ -2,7 +2,7 @@
 
 `PHdata` provides all digital elevation model data GeoTIFF files used to create 
 [Cunningham et al. (2019)](https://mcunningham917.github.io/PHdoc/Publications).
-The data are [ten 1-arcsecond (projected at 30m resolution) Shuttle Radar Topography Mission (SRTM) DEMs of tropical mountain](https://mcunningham917.github.io/PHdoc/Data/). 
+The data are [ten 1-arcsecond (projected at 30m resolution) Shuttle Radar Topography Mission (SRTM) DEMs of tropical mountains](https://mcunningham917.github.io/PHdoc/Data/). 
 Voids in 1-arcsecond data are patched with void-filled 3-arcsecond SRTM digital topography
  (projected at 90m resolution and resampled to 30m resolution, acquired from 
  [ViewFinderPanoramas](http://www.viewfinderpanoramas.org/Coverage%20map%20viewfinderpanoramas_org3.htm)).
